@@ -1,0 +1,24 @@
+1) pwd
+2) mkdir folder1
+3) cd folder1
+4) mkdir folder1_1 folder1_2 folder1_3
+5) cd folder1_1
+6) touch a.txt b.txt c.txt d.json e.json
+7) mkdir folder1_1_1 folder1_1_2 folder1_1_3
+8) ls -la
+9) vim a.txt
+10) i --> write text (Shift+Insert)
+11) esc --> :wq+Enter
+12) cd ..
+13) cd folder1_1
+    mv a.txt folder1_1_1
+    mv b.txt folder1_1_1
+14) cp c.txt folder1_1_2
+    cp d.json folder1_1_2
+15) find -name e.json
+16) cat ./folder1_1_1/a.txt
+17) head ./folder1_1_1/a.txt
+18) tail ./folder1_1_1/a.txt
+19) less ./folder1_1_1/a.txt
+    Ctrl+Z
+20) date

@@ -2,30 +2,29 @@
 
 ## EN
 ### Main task
-1. look where you are;
-2. create a folder;
-3. go to the folder;
-4. create 3 folders;
-5. go to one of the folders;
-6. create 5 files (3 txt, 2 json);
-7. create 3 folders;
-8. list the contents of the folder;
-9. open one of the txt files;
-10. write anithing there (any text);
-11. save and exit the file;
-12. exit the folder and go to the higher level;
-13. move any 2 files you created to any other folder;
-14. copy any 2 files you created to any other folder;
-15. find a file by its name;
-16. view content in real time;
-17. print the first few lines from a text file;
-18. print the last few lines from a text file;
-19. view the contents of a long file;
-20. display date and time.
+1. Look where you are;
+2. Create a folder;
+3. Go to the folder;
+4. Create 3 folders;
+5. Go to one of the folders;
+6. Create 5 files (3 txt, 2 json);
+7. Create 3 folders;
+8. List the contents of the folder;
+9. Open one of the txt files;
+10. Write anithing there (any text);
+11. Save and exit the file;
+12. Exit the folder and go to the higher level;
+13. Move any 2 files you created to any other folder;
+14. Copy any 2 files you created to any other folder;
+15. Find a file by its name;
+16. View content in real time;
+17. Print the first few lines from a text file;
+18. Print the last few lines from a text file;
+19. View the contents of a long file;
+20. Display date and time.
 
 ### Additional task
-1. Send an http request to the server.
-http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000
+1. Send an http request to the [server](http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000).
 2. Write a script that will automatically perform steps 3, 4, 5, 6, 7, 8, 13.
 
 ## RU
@@ -52,6 +51,5 @@ http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000
 20. Вывести дату и время.
 
 ### Задание *
-1. Отправить http-запрос на сервер.
-http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000
+1. Отправить http-запрос на [сервер](http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000).
 2. Написать скрипт, который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13.

@@ -1,1 +1,12 @@
 1. curl -I http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000
+
+2.
+#!/bin/bash
+cd folder1
+mkdir folder1_1 folder1_2 folder1_3
+cd folder1_1
+touch a.txt b.txt c.txt d.json e.json
+mkdir folder1_1_1 folder1_1_2 folder1_1_3
+ls -la
+mv a.txt folder1_1_1
+mv b.txt folder1_1_1

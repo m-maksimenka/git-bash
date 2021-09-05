@@ -16,7 +16,7 @@
 14) cp c.txt folder1_1_2
     cp d.json folder1_1_2
 15) find -name e.json
-16) cat ./folder1_1_1/a.txt
+16) tail -f ./folder1_1_1/a.txt | grep PATTERN [file]
 17) head ./folder1_1_1/a.txt
 18) tail ./folder1_1_1/a.txt
 19) less ./folder1_1_1/a.txt

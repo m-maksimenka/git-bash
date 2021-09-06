@@ -1,4 +1,4 @@
-# GitBash commands
+# Git Bash commands
 
 ## EN
 ### Main task

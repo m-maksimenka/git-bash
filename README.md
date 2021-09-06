@@ -22,10 +22,12 @@
 18. Print the last few lines from a text file;
 19. View the contents of a long file;
 20. Display date and time.
+[Solution](https://github.com/m-maksimenka/git-bash/blob/main/main_task.txt)
 
 ### Additional task
 1. Send an http request to the [server](http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000).
 2. Write a script that will automatically perform steps 3, 4, 5, 6, 7, 8, 13.
+[Solution](https://github.com/m-maksimenka/git-bash/blob/main/additional_task.txt)
 
 ## RU
 ### Основное задание
@@ -49,7 +51,9 @@
 18. Вывести несколько последних строк из текстового файла.
 19. Просмотреть содержимое длинного файла.
 20. Вывести дату и время.
+[Решение](https://github.com/m-maksimenka/git-bash/blob/main/main_task.txt)
 
 ### Задание *
 1. Отправить http-запрос на [сервер](http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000).
 2. Написать скрипт, который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13.
+[Решение](https://github.com/m-maksimenka/git-bash/blob/main/additional_task.txt)
